@@ -1,0 +1,12 @@
+#pragma once
+*.exe
+*.obj
+*.user
+*.log
+*.sdf
+*.VC.db
+ipch/
+x64/
+Debug/
+Release/
+.vscode/
